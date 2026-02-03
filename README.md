@@ -10,7 +10,7 @@ Models implemented include:
 - Support Vector Machines (SVM)
 - Multinomial Logistic Regression
 
-The project was completed as part of a university-level course and demonstrates an end-to-end applied machine learning pipeline in Python.
+The project was completed as part of a university-level course and demonstrates an end-to-end applied machine learning pipeline in Python. A big thank you to my partner Brendan Pelikh in this project.
 
 
 ## Key Skills Demonstrated
